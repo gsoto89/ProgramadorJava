@@ -1,0 +1,25 @@
+-Introducción al Curso.
+-Instalación de Git.
+-Creación de Cuenta en GitHub.
+-Trabajando con GitHub.
+-Ejemplo de Programación orientada a servicio.
+-Clases y Objetos.
+-Miembros de clase.
+https://devcode.la/cursos/fundamentos-java/#
+https://www.udemy.com/fundamentos-de-programacion-con-java/
+***********************************************************
+
+- Crear 2 paquetes un service y view.
+
+Service:
+--------
+
+Cuando se habla de un servicio se habla de un metodo:
+
+	* Calcular Impuesto (importe):double
+	* Calcular total (importe):double
+
+View:
+-----
+
+

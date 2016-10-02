@@ -1,0 +1,10 @@
+Importe de una venta:
+
+Dato:
+-Precio del articulo (incluye IGV)
+-Cantidad
+
+Se debe calcular:
+-importe
+-impuesto
+-total
